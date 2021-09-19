@@ -17,3 +17,4 @@ def greeter():
     print('Just saying hi again')
 
 greeter()
+greeter()
